@@ -17,5 +17,7 @@ vim --i ,Enter ,:wq
 chmod
 chdir
 useradd
+cat
+df -h
 
 
